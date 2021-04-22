@@ -1,0 +1,7 @@
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\bin\Debug\sample.exe.config
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\bin\Debug\sample.exe
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\bin\Debug\sample.pdb
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\obj\Debug\sample.exe
+D:\STUDY MATERIALS\MODULE 3\Programs\sample\sample\obj\Debug\sample.pdb
