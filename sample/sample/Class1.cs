@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace sample
 {
-    class Program
+    class Class1
     {
         static void Main(string[] args)
-        {
-            int a = 5;
-            int a = 5;
-            Console.WriteLine(a+b);
+        {   
+
+
+            string name = "Shamitha";
+            Console.WriteLine("Name : {0}", name);
             Console.ReadLine();
+           
+           
         }
     }
 }

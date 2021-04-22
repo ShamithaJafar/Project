@@ -6,14 +6,20 @@ using System.Threading.Tasks;
 
 namespace sample
 {
-    class Program
+    public enum Gender
+    {
+        Male = 0,
+        Female = 1,
+        Other = 2
+    }
+    class datatype
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int a = 5;
-            Console.WriteLine(a+b);
-            Console.ReadLine();
+
+            
+
+
         }
     }
 }
